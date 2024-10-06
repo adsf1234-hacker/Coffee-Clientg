@@ -8,6 +8,7 @@ public enum Category {
     RENDER("Render"),
     MISC("Misc"),
     HUD("Hud");
+    NEWHACKS("NewHacks");
 
     public String mname;
     public int i;
