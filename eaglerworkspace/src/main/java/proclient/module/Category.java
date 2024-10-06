@@ -7,7 +7,7 @@ public enum Category {
     PLAYER("Player"),
     RENDER("Render"),
     MISC("Misc"),
-    HUD("Hud");
+    HUD("Hud"),
     NEWHACKS("NewHacks");
 
     public String mname;
