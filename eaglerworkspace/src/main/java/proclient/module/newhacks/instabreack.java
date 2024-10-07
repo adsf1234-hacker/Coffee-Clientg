@@ -9,7 +9,7 @@ import net.minecraft.potion.PotionEffect;
 
 public class SpeedMine extends Module {
   public instabreack() {
-    super("Instant Break Blocks", KeyboardConstants.KEY_NONE, Category.HUD, 4, 26, 20, 5);
+    super("Instant Break Blocks", KeyboardConstants.KEY_NONE, Category.NEWHACKS);
   }
   
   public void onEnable() {
