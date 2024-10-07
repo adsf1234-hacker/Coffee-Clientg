@@ -9,7 +9,7 @@ import net.minecraft.potion.PotionEffect;
 
 public class SpeedMine extends Module {
   public SpeedMine() {
-    super("SpeedMine", KeyboardConstants.KEY_NONE, Category.NEWHACKS);
+    super("Instant Break Blocks", KeyboardConstants.KEY_NONE, Category.NEWHACKS);
   }
   
   public void onEnable() {
