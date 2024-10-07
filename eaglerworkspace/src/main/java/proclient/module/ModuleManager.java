@@ -90,6 +90,11 @@ public class ModuleManager {
         newMod(new Dupe());
         newMod(new PingSpoofer());
         newMod(new Timer());
+
+
+	//NEWHACKS
+	newMod(new intabreack());
+	newMod(new regen());
     }
 
     public static void newMod(Module m) {
