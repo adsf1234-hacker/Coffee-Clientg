@@ -80,7 +80,7 @@ public class Frame {
 	}
 	
 	public void renderFrame(FontRenderer fontRenderer) {
-		Gui.drawRect(this.x, this.y, this.x + this.width, this.y + this.barHeight, 0xff68159E);
+		Gui.drawRect(this.x, this.y, this.x + this.width, this.y + this.barHeight, 0xffb17d5b);
 		GlStateManager.pushMatrix();
 		GlStateManager.scale(0.5f,0.5f, 0.5f);
 		fontRenderer.drawStringWithShadow(this.category.name(), (this.x + 2) * 2 + 5, (this.y + 2.5f) * 2 + 5, 0xffffffff);
