@@ -33,7 +33,7 @@ public class MainMenu extends GuiScreen {
         this.drawModalRectWithCustomSizedTexture(0, 0, 0, 0, this.width, this.height, this.width, this.height);
         GlStateManager.pushMatrix();
         GlStateManager.scale(2, 2, 2);
-        this.drawCenteredString(mc.fontRendererObj, "DragonX V2", this.width / 2 - 170, this.height / 2 - 120, -1);
+        this.drawCenteredString(mc.fontRendererObj, "Coffee Client", this.width / 2 - 170, this.height / 2 - 120, -1);
         GlStateManager.popMatrix();
         super.drawScreen(mouseX, mouseY, partialTicks);
     }
