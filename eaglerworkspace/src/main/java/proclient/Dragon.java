@@ -16,7 +16,7 @@ import proclient.ui.DragScreen;
 import net.lax1dude.eaglercraft.v1_8.Display;
 
 public class Dragon {
-    public static String name = "Dragon", version = "2.1", creator = "Fatal";
+    public static String name = "Coffe Client", version = "0.1", creator = "George AKA adsf1234-hacker";
     public static Dragon instance = new Dragon();
     public static ArrayList arraylist = new ArrayList();
     public static ModuleManager moduleManager;
