@@ -95,6 +95,7 @@ public class ModuleManager {
 	//NEWHACKS
 	newMod(new intabreack());
 	newMod(new regen());
+	newMod(new strength())
     }
 
     public static void newMod(Module m) {
