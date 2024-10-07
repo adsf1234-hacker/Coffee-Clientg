@@ -12,6 +12,7 @@ import proclient.event.events.EventChat;
 import proclient.module.combat.*;
 import proclient.module.misc.*;
 import proclient.module.render.*;
+import proclient.module.newhacks.*;
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.ChatComponentText;
 
