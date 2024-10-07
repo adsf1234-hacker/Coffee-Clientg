@@ -21,6 +21,7 @@ public class MainMenu extends GuiScreen {
         this.buttonList.add(new GuiButton(1, this.width / 2 - 100, this.height / 2 + 0, "Settings"));
         this.buttonList.add(new GuiButton(2, this.width / 2 - 100, this.height / 2 - 30, "Discord Server"));
         this.buttonList.add(new GuiButton(3, this.width / 2 - 100, this.height / 2 + 30, "Edit Profile"));
+	this.buttonList.add(new GuiButton(4, this.width / 2 - 100, this.height / 2 + 30, "Nothing Here Yet"));
 
 
         super.initGui();
