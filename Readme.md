@@ -16,4 +16,8 @@ To Install This Client Or Compile it Run The Following Commands:
 ## Authors
 originaly fatal then recoded by me :)
 
+## Hacks to be added
+
+Give yourself any effect for any amount of time and any strength
+```out soon btw```
 
